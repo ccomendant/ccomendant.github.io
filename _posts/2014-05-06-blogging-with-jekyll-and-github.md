@@ -1,3 +1,12 @@
+---
+layout: post
+category : lessons
+tagline: "Supporting tagline"
+tags : [intro, beginner, jekyll, tutorial]
+---
+{% include JB/setup %}
+
+
 how this blog has been created
 1. read many blog-posts on the web
 2.a. use the default way of publishing automatically
