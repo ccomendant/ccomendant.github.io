@@ -21,3 +21,5 @@ how this blog has been created
      + rename repo to USERNAME.github.io
      + almost there :)
 
+
+*ToDO*: switch to [minimal](https://github.com/orderedlist/minimal)-theme
